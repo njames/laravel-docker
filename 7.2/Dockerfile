@@ -63,6 +63,7 @@ RUN docker-php-ext-install \
     pdo_mysql \
     pdo_pgsql \
     pdo_sqlite \
+    php-mailparse \
     pcntl \
     tokenizer \
     xml \
